@@ -1,0 +1,21 @@
+{
+    "title": "Python: Loop Control",
+    "slug": "python-loop-control",
+    "description": "Shows how break and continue alter loop flow, including behaviour in nested loops.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "programming-loop-control",
+        "python-range-in-for-loops",
+        "python-conditionals-if-elif-else"
+    ],
+    "related": [
+        "programming-loop-control-nested-loops",
+        "exercise-python-primes-below-100"        
+    ]
+}
